@@ -1,3 +1,8 @@
 #AMS Studios Basic Web page.
 
-Using HTML5 & CSS Media Queries.
+Basic HTML5 & CSS Media Queries.
+
+Clone/Download and just open it in the browser.
+
+#Edit the code, Have fun. ;-)
+
